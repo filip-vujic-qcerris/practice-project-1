@@ -11,6 +11,7 @@ public class PracticeProject1Application {
 		SpringApplication.run(PracticeProject1Application.class, args);
 
 		System.out.println("Test test 2.");
-		System.out.println("Test test 3.");
+
+		System.out.println("Test test 4.");
 	}
 }
