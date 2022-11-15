@@ -12,6 +12,6 @@ public class PracticeProject1Application {
 
 		System.out.println("Test test 2.");
 
-		System.out.println("Test test 4.");
+		System.out.println("Test test 4 appended.");
 	}
 }
